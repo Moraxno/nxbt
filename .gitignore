@@ -145,3 +145,8 @@ Vagrantfile
 .vagrant
 cert.pem
 key.pem
+
+# Resources
+*.png
+*.zip
+*.fla

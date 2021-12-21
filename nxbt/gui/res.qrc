@@ -1,0 +1,31 @@
+<RCC>
+  <qresource>
+    <file>img/Switch/Switch_A.png</file>
+    <file>img/Switch/Switch_B.png</file>
+    <file>img/Switch/Switch_Controller_Left.png</file>
+    <file>img/Switch/Switch_Controller_Right.png</file>
+    <file>img/Switch/Switch_Controllers.png</file>
+    <file>img/Switch/Switch_Controllers_Separate.png</file>
+    <file>img/Switch/Switch_Down.png</file>
+    <file>img/Switch/Switch_Dpad.png</file>
+    <file>img/Switch/Switch_Dpad_Down.png</file>
+    <file>img/Switch/Switch_Dpad_Left.png</file>
+    <file>img/Switch/Switch_Dpad_Right.png</file>
+    <file>img/Switch/Switch_Dpad_Up.png</file>
+    <file>img/Switch/Switch_Home.png</file>
+    <file>img/Switch/Switch_LB.png</file>
+    <file>img/Switch/Switch_Left.png</file>
+    <file>img/Switch/Switch_Left_Stick.png</file>
+    <file>img/Switch/Switch_LT.png</file>
+    <file>img/Switch/Switch_Minus.png</file>
+    <file>img/Switch/Switch_Plus.png</file>
+    <file>img/Switch/Switch_RB.png</file>
+    <file>img/Switch/Switch_Right.png</file>
+    <file>img/Switch/Switch_Right_Stick.png</file>
+    <file>img/Switch/Switch_RT.png</file>
+    <file>img/Switch/Switch_Square.png</file>
+    <file>img/Switch/Switch_Up.png</file>
+    <file>img/Switch/Switch_X.png</file>
+    <file>img/Switch/Switch_Y.png</file>
+  </qresource>
+</RCC>
